@@ -1,4 +1,3 @@
-
 React Development Practice Project
 This project contains tasks aimed at practicing various aspects of React development.
 
@@ -51,3 +50,4 @@ Task 6: Add Buttons with onClick Events
 In Display.js, add two <button> elements labeled "Hello" and "Bye".
 
 Implement onClick event handlers for these buttons to display "Hello" and "Bye" messages when clicked.
+
