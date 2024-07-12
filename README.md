@@ -43,7 +43,7 @@ In `App.js`, create variables for `name`, `address`, and `scores` and pass them 
 
 ### Using Class Component
 
-Create a new class component `Student1.js` in the `src` folder. This component should also accept `name`, `address`, and `scores` as props and render them.
+Create a new class component `StudentClass.js` in the `src` folder. This component should also accept `name`, `address`, and `scores` as props and render them.
 
 In `App.js`, create variables for `name`, `address`, and `scores` and pass them as props to the `Student1` component.
 
